@@ -1,0 +1,40 @@
+body{
+    background-color: lightblue;
+    overflow: scroll;
+}
+
+.paragrafo1{
+background-color:lightgreen;
+}
+
+.header1{
+background-image: url(http://cdn.shopify.com/s/files/1/0010/1561/1510/products/papel-de-parede-fundo-do-mar_grande.jpg?v=1619480717);
+background-repeat: repeat-x;
+background-attachment: fixed;
+
+}
+
+.paragrafo2{
+    background-image: url(https://imgs.extra.com.br/1504907039/1xg.jpg?imwidth=500) ;
+    background-repeat: repeat-y;
+
+}
+.paragrafo3{
+    background-image: url(https://www.tricolandia.com.br/octopus/design/images/199/products/b/083878.jpg);
+    background-repeat: no-repeat;
+
+}
+.paragrafo4{
+    background-image:url(https://binaries.templates.cdn.office.net/support/templates/pt-br/lt30007749_quantized.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.header2{
+    color: yellow;
+    background-image:url(https://76153.cdn.simplo7.net/static/76153/sku/estampas-madeira-fundo-fotografico-madeira-clara-em-tecido-ffm-230--p-1643380036825.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
